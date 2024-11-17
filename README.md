@@ -1,8 +1,8 @@
 # DRAGIN
 
-Repositório com alguns resultados usando a LLM TinyLlama/TinyLlama-1.1B-Chat-v0.1 para testar o DRAGIN.
+Repository with some results using the TinyLlama/TinyLlama-1.1B-Chat-v0.1 LLM to test DRAGIN.
 
-Os autores da implementação mas o artigo publicado pelos mesmos se encontram em: https://arxiv.org/abs/2403.10081
+The authors of the implementation, as well as the article published by them, can be found at: https://arxiv.org/abs/2403.10081
 
 ## Overview
 
