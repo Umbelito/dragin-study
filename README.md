@@ -1,21 +1,8 @@
 # DRAGIN
 
-**📢 News: this work has been accepted at the ACL 2024 main conference!**
+Repositório com alguns resultados usando a LLM TinyLlama/TinyLlama-1.1B-Chat-v0.1 para testar o DRAGIN.
 
-**If you find our project interesting or helpful, we would appreciate it if you could give us a star! Your support is a tremendous encouragement to us!**
-
-
-
-**Welcome to the official GitHub repository for our ACL 2024 Main Conference Full paper: DRAGIN** (Dynamic Retrieval Augmented Generation based on the real-time Information Needs of LLMs), a dynamic RAG framework designed to enhance the text generation capabilities of Large Language Models (LLMs) by intelligently deciding when and what to retrieve during the generation process.
-
-
-
-**📢 News:**
-
-We would like to thank @Bocchi7 for reproducing our work with a simplified version of the code. You can check it out here:  
-[https://github.com/Bocchi7/DRAGIN_simplified](https://github.com/Bocchi7/DRAGIN_simplified)
-
-
+Os autores da implementação mas o artigo publicado pelos mesmos se encontram em: https://arxiv.org/abs/2403.10081
 
 ## Overview
 
